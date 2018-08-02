@@ -7,7 +7,7 @@ For additional License information please read the License.txt included with the
 
 ### Issue Tracking
 For issue tracking, documentation and downloads please visit the SuperPuTTY Project on Github
-https://github.com/sneakfury/
+https://github.com/sneakfury/SilliPuTTY
 
 ### Latest Releases
 The latest release is available for download at https://github.com/sneakfury/superputty/releases/latest
