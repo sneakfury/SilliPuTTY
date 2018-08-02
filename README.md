@@ -1,4 +1,4 @@
-# SilliPuTTY Application the fun terminal
+# SilliPuTTY the fun ssh client
 
 ### License
 MIT
