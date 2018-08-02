@@ -14,7 +14,7 @@ The latest release is available for download at https://github.com/sneakfury/sup
 
 Previous releases can be found at https://github.com/sneakfury/SilliPuTTY
 
-Documentation is at https://github.com/sneakfury/superputty/wiki/Documentation
+Documentation is at https://github.com/sneakfury/SilliPuTTY/wiki/Documentation
 
 ### News and Updates
 Get the latest news and updates on our website https://SilliPuTTY.app
