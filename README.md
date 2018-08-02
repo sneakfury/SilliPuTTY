@@ -1,4 +1,4 @@
-# SilliePuTTY Application the fun terminal
+# SilliPuTTY Application the fun terminal
 
 ### License
 MIT
