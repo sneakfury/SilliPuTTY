@@ -6,7 +6,7 @@ MIT
 For additional License information please read the License.txt included with the download
 
 ### Issue Tracking
-For issue tracking, documentation and downloads please visit the SuperPuTTY Project on Github
+For issue tracking, documentation and downloads please visit the SilliPuTTY Project on Github
 https://github.com/sneakfury/SilliPuTTY
 
 ### Latest Releases
