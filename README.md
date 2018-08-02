@@ -12,11 +12,9 @@ https://github.com/sneakfury/SilliPuTTY
 ### Latest Releases
 The latest release is available for download at https://github.com/sneakfury/superputty/releases/latest
 
-Previous releases can be found at https://github.com/jimradford/superputty/releases
-
-Most Recent non-release/test [![Build status](https://ci.appveyor.com/api/projects/status/s6thtyntec4beaqk/branch/master?svg=true)](https://ci.appveyor.com/project/jimradford/superputty/branch/master)
+Previous releases can be found at https://github.com/sneakfury/SilliPuTTY
 
 Documentation is at https://github.com/sneakfury/superputty/wiki/Documentation
 
 ### News and Updates
-Get the latest news and updates on the Facebook page https://SilliPuTTY.app
+Get the latest news and updates on our website https://SilliPuTTY.app
